@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-A CRISP-DM data science project that explores the detection of fraudulent credit card transactions in a hypothetical Italian banking context.
+A CRISP-DM data science project that explores the identification of fraudulent credit card transactions in a hypothetical Italian banking context.
 
 ## Business Problem
 
